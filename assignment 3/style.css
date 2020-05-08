@@ -1,0 +1,135 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.header-top{
+    padding: 5px 0 !important;
+}
+.social-icon-widget{
+    margin: 5px 0 !important;
+}
+.top-header-text-widget{
+    text-align: center !important;
+    padding-top: 7px !important;
+}
+.action-button-widget{
+    display: flex !important;
+    padding: 5px 0 !important;
+    justify-content: center !important;
+    color: #427900 !important;
+}
+#services-section .box-shadow{
+    padding: 35px;
+    margin-bottom: 30px;
+    background-color: #ffffff;
+    box-shadow: 0px 8px 20px 0 rgba(0,0,.16);
+}
+.icon-box-widget{
+    border: 1px solid #eee !important;
+    background-color: #f7f8fa !important;
+    padding: 20px !important;
+    margin-bottom: 15px !important;
+}
+.news{
+    color: rgb(17, 243, 17);
+}
+.details{
+    color: blue;
+}
+.h2,h3,h5,h2 {
+    color: #316DC3 !important;
+    font-family: serifs !important;   
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+}
+.text-theme{
+    color: #427900;
+}
+.whatsappicon{
+    height: 20px;
+/* }
+.action-button-widget{
+    display: flex;
+    /* padding: 5px 0; */
+    justify-content: center;}*/
+
+.line-bottom{
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+.icon-box.left{
+    text-align: left;
+}
+.media-body{
+    width: 10000px;
+}
+.border-bottom{
+ border-bottom: 1px solid #eeeeee !important;   
+}
+.nav-item:hover{
+    background-color: blue !important;
+}
+.display-table{
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+.display-table-cell{
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+}
+.title-icon{
+    margin: 0 auto;
+    max-width: 160px;
+    position: relative;
+}
+div{
+    display: block;
+}
+.gallery{
+    background-color: #eeeeee;
+    text-align: center;
+}
+.gallery-item{
+    background-color: #eeeeee;
+    display: inline;
+    flex-direction: row;
+    margin: 9px;
+    padding: 10px;
+}
+.section-title{
+    margin-bottom: 30px;
+}
+.font-weight-600{
+    font-weight: 600;
+}
+.no-border{
+    border: none !important;
+}
+.pt-70{
+    padding-top: 70px !important;
+}
+.pb-40{
+    padding-bottom: 40px !important;
+}
+.footer-section{
+    background-color: #25272e !important;
+    flex-shrink: 0 !important;
+}
+.footer-bottom{
+    background-color: #316DD9;
+}html, body {
+    height: 100%;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  .content {
+    flex: 1 0 auto;
+  }

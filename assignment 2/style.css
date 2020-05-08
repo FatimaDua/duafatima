@@ -1,0 +1,35 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+div.form
+{
+    display: block;
+    text-align: center;
+    background-color: #5010db;
+    color: white;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+.thankpage{
+    display: block;
+    text-align: center;
+}
+.button{
+    display: block;
+    text-align: center;
+}
+#addr,#qual{
+    vertical-align: top;
+}
+
